@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server",
-    "build": "webpack"
+    "build": "webpack -d --watch"
   },
   "author": "Colin Stodd http://www.colinstodd.com",
   "license": "ISC",

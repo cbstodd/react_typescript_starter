@@ -3,4 +3,4 @@ import * as ReactDOM from "react-dom";
 
 import { Home } from "./components/Home";
 
-ReactDOM.render(<Home name="Colin" age={27}/>, document.getElementById("app"));
+ReactDOM.render(<Home name="Colin" age={34}/>, document.getElementById("app"));
